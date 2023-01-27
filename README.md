@@ -1,4 +1,4 @@
-# dmoney-rest-api
+# Dmoney-REST-API with newman
 
 
 ## How to run this project
