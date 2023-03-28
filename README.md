@@ -6,7 +6,8 @@
 
 ## Project scenario:
 
-Create test cases (Positive and Negative cases under each scenario discussed in class) in a standard test format for dmoney rest API and upload to google drive based on this scenario: (10)
+Create test cases (Positive and Negative cases under each scenario discussed in class) in a standard test format for dmoney rest API.
+
 1. Admin creates an agent and random 2 customers
 2. Deposit some money from SYSTEM account to the agent
 3. Agent deposit to any of 1 customer
